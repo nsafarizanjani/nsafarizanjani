@@ -13,7 +13,7 @@
 <br><br>
 
 <a href="https://artabidkhori.com"><img src="https://img.shields.io/badge/PORTFOLIO-43ead3?style=for-the-badge&labelColor=071416&color=43ead3" alt="Portfolio" /></a>
-<a href=https://github.com/nsafarizanjani"><img src="https://img.shields.io/badge/GITHUB-4387ff?style=for-the-badge&logo=github&logoColor=dcfff7&labelColor=071416" alt="GitHub" /></a>
+<a href="https://github.com/nsafarizanjani"><img src="https://img.shields.io/badge/GITHUB-4387ff?style=for-the-badge&logo=github&logoColor=dcfff7&labelColor=071416" alt="GitHub" /></a>
 <a href="mailto:hello@example.com"><img src="https://img.shields.io/badge/CONTACT-9b6cff?style=for-the-badge&logo=gmail&logoColor=dcfff7&labelColor=071416" alt="Email" /></a>
 
 <br>
