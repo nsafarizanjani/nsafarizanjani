@@ -3,7 +3,7 @@
 <rect width="900" height="380" rx="24" fill="#0b1d20"/><rect x="6" y="6" width="888" height="368" rx="20" fill="url(#shell)" stroke="#168f82"/><rect x="18" y="18" width="864" height="344" rx="17" fill="#071416" stroke="#1a7269"/><circle cx="230" cy="185" r="180" fill="url(#aura)"/>
 <circle cx="38" cy="37" r="5" fill="#ff665d"/><circle cx="56" cy="37" r="5" fill="#f5c451"/><circle cx="74" cy="37" r="5" fill="#46d468"/><text x="450" y="41" text-anchor="middle" class="mono">nsafarizanjani@github: ~$ ./wordmark --animate</text>
 <rect x="32" y="57" width="286" height="292" rx="22" fill="#081d1f" stroke="#176f68"/><text x="48" y="78" class="label">PORTRAIT.ASCII / @nsafarizanjani</text><image
-  href="biomedical.jpg"
+  href="./biomedical_profile_1MB.jpg"
   x="45"
   y="85"
   width="260"
