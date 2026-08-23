@@ -1,9 +1,5 @@
 <div align="center">
 
-<img src="./assets/biomedical_profile_1MB.jpg" width="900" alt="Biomedical Engineering profile" />
-
-<br><br>
-
 <img src="./assets/identity.svg" width="900" alt="Animated identity" />
 
 <br><br>
