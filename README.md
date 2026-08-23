@@ -4,6 +4,10 @@
 
 <br><br>
 
+<img src="./assets/identity.svg" width="900" alt="Animated identity" />
+
+<br><br>
+
 <img src="./assets/contributions.svg" width="900" alt="Animated contribution activity with moving spacecraft" />
 
 <br><br>
